@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+}
+button{
+ padding: 10px;
+ border-radius: 20px;
+ font-size: larger;
+ font-weight: bolder;
+ color: green;
+ background-color: lightgreen;
+}
+#demo{
+    font-size: 30px;
+    color: rgb(2, 31, 11);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    padding-top: 50px;
+    padding-left: 30%;
+}
